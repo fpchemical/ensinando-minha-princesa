@@ -25,11 +25,9 @@ Claro que meus filhos são minhas cobainhas rsrsrs
 
 Vou citar aqui alguns exemplos
 
-## Taxonomia de Bloom - Estrutura de organização hierárquica de objetivos educacionais
+### Taxonomia de Bloom - Estrutura de organização hierárquica de objetivos educacionais
 
-![Definição básica da taxonomia](https://pt.wikipedia.org/wiki/Taxonomia_dos_objetivos_educacionais)
-
-Leia: Domínio cognitivo (educacional)
+![Definição básica da taxonomia](https://pt.wikipedia.org/wiki/Taxonomia_dos_objetivos_educacionais) Leia: Domínio cognitivo (educacional)
 
 Pois bem, vamos ao primeiro exemplo:
 
@@ -52,9 +50,9 @@ Conversa no Telegram com minha filha
 
 Quero que notem as palavras **ordens** e **funções**, na primeira e segunda frase respectivamente, nesse exemplo são essas palavras que indicam a aplicação da Taxonomia de Bloom, que apresenta seis níveis de aprendizado, no caso foi utilizado os dois primeiros.
 
-Como Fran? 
+Como assim Fran? 
 
-Ta bom eu explico!! 
+> Eu explico!! 
 
 ### O primeiro nível é o **Conhecimento**, ele representa o pré-conhecimento citado acima.
 
